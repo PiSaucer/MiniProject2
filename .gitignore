@@ -1,5 +1,6 @@
 .DS_STORE
 .venv/
+__pycache__/
 woc_cache/
 df_commit*.csv
 .python-version
