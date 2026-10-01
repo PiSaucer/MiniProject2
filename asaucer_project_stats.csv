@@ -1,0 +1,11 @@
+project;number of commits;number of authors;max time;min time;number of stars;number of forks;last commit date;LongestGapStart;LongestGapEnd;LongestGapLength;NumCommitsAfterLastGap;NumberOfGapsInTimeline;ActivityPattern
+anustg_optics_verification;582;14;1747229518;1237487527;1;2;2025-05-14;2019-06;2022-05;36;3;12;declining
+atchem_atchem2;2822;20;1761126665;1489401650;72;25;2026-02-03;2024-03;2024-07;5;222;3;declining
+awslabs_gluon-ts;10958;294;1757582731;1558011255;5244;838;2026-07-31;2024-12;2025-01;2;80;0;declining
+locusrobotics_fuse;2309;60;1760966698;1530462104;882;143;2026-08-19;2020-09;2020-10;2;1392;0;cyclical
+netket_netket;11915;163;1761145795;1524509351;700;217;2026-09-24;N/A;N/A;0;0;0;cyclical
+qiskit_qiskit-vscode;1258;25;1762282079;1519373836;95;35;2026-05-29;2019-06;2024-08;63;178;2;declining
+rexcardan_evil-dicom;304;35;1726568961;1344434229;192;96;2024-08-20;2023-08;2024-07;12;7;9;declining
+sfilippone_psblas3;3920;35;1761917630;977932376;70;20;2026-09-24;2001-01;2005-08;56;3919;3;rising
+sigven_pcgr;1428;19;1759841533;1490040443;284;52;2026-09-20;2021-02;2021-05;4;1043;3;rising
+threeml_threeml;5360;81;1761867478;1416590422;86;70;2026-09-04;2020-01;2020-02;2;2200;0;declining
