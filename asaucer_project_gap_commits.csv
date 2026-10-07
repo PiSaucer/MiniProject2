@@ -1,0 +1,524 @@
+pre/post;project_wocid;commit_sha1;author;time;commit message
+pre;anustg_optics_verification;e2e98de27c8cefc7075567633fb4b689a4fb91ce;yewang726 <ye.wang@anu.edu.au>;1558500466;"organise file struction
+"
+pre;anustg_optics_verification;4684782d73ba2bd9c7164d0939103275b5cecf3b;yewang726 <ye.wang@anu.edu.au>;1558500615;"revise paper title
+"
+pre;anustg_optics_verification;62d5caf004eba9f2ac789b6feeb9c21026159d28;yewang726 <ye.wang@anu.edu.au>;1559086150;"ignore files
+"
+pre;anustg_optics_verification;4d5e0d6895b05d2789ccff493924c3cd74c4b85f;yewang726 <ye.wang@anu.edu.au>;1559086316;"rm py~ files
+"
+pre;anustg_optics_verification;25f05349d7f27cdb0a5bbc2718d9ed27e8886cff;yewang726 <ye.wang@anu.edu.au>;1559102544;"the results up-to-date prior to the submission
+"
+pre;anustg_optics_verification;e9070d3b455a83c7211eea6dcf56a89e446f1818;yewang726 <ye.wang@anu.edu.au>;1559103216;"the results up-to-date prior to the submission
+"
+pre;anustg_optics_verification;08fda4ccaf951355a5f3c6faddc369a3d8019b06;yewang726 <ye.wang@anu.edu.au>;1559103289;"summary of the agreed results (average value of Tonatiuh, Tracer, Soltrace, Solstice and Heliosim, the error represent the confidence interval, which follow the 3 sigma rule
+"
+pre;anustg_optics_verification;0764a19b9c254b583c7aa72cbfc6a6a8a6d10bb4;yewang726 <ye.wang@anu.edu.au>;1559104568;"formating and add the agreed results summary
+"
+pre;anustg_optics_verification;dd04feb35ae44983e0158bf725154facb24b7088;yewang726 <ye.wang@anu.edu.au>;1559104695;"formatted and add the agreed results summary
+"
+pre;anustg_optics_verification;dca0a4534c8d3d4fbe3ec2f363514303a9722e1f;yewang726 <ye.wang@anu.edu.au>;1559121820;"revised typo
+"
+post;anustg_optics_verification;0f943d39b17059bf5bc07e16983621765e835987;yewang726 <ye.wang@anu.edu.au>;1655772693;"rename the script folders, pull the figure scripts out from the previous
+"
+post;anustg_optics_verification;c99e7da291f6778d21d690bd39b1f1932a1fcf62;yewang726 <ye.wang@anu.edu.au>;1655772848;"add specific labels (case name) for each case
+"
+post;anustg_optics_verification;6a119fd20ac4d76ba767553bee5cc6811fe4ae0d;Ye Wang <ye.wang@anu.edu.au>;1747229518;"Update README.md
+
+add the way of citation"
+pre;atchem_atchem2;d6cbd3be32fc024dc1013a824af461ba3987a4f7;rs028 <rob.sommariva@gmail.com>;1706976574;"Test commit on branch
+"
+pre;atchem_atchem2;62dc4ed2212bc69b9b99acecb9e21a260b2008ef;rs028 <rob.sommariva@gmail.com>;1706976769;"Test commit on branch
+"
+pre;atchem_atchem2;b7a43edc0c2df46ed68e34804bad4f836fe4c3dc;rs028 <rob.sommariva@gmail.com>;1706976769;"Test commit on branch
+"
+pre;atchem_atchem2;94bb0db123dd6c54f3a844b057a4bb03bb1cd047;rs028 <rob.sommariva@gmail.com>;1706977023;"Correct permissions
+"
+pre;atchem_atchem2;f6781c10b2562c3bb6eb7f323c221918ab0e7afe;rs028 <rob.sommariva@gmail.com>;1706977023;"Correct permissions
+"
+pre;atchem_atchem2;8a4dc830e71cb17989d9e4921d1cb0fea5d5a640;rs028 <rob.sommariva@gmail.com>;1706978569;"Correct permissions
+"
+pre;atchem_atchem2;9342ecc725940b6b0434b3d31f9bd25c7a7a0d75;rs028 <rob.sommariva@gmail.com>;1706978569;"Correct permissions
+"
+pre;atchem_atchem2;5cf07b836bf5a95a069d8e1983108db8a7185eb4;rs028 <rob.sommariva@gmail.com>;1706979938;"Correct permissions
+"
+pre;atchem_atchem2;90c4a044d2cde08f806ed9dadc530c3027fa74fc;rs028 <rob.sommariva@gmail.com>;1706979938;"Correct permissions
+"
+pre;atchem_atchem2;3802195f1bbd0ef64d573d33a6ed40d5862f1c98;R. Sommariva <rob.sommariva@gmail.com>;1706979945;"Merge 90c4a044d2cde08f806ed9dadc530c3027fa74fc into c4ed6afc71e25de3d689c00d21627b200a3d9b50
+"
+post;atchem_atchem2;b5a941adacaa332d215c9c76ce1fe137f538847a;willdrysdale <wsd500@york.ac.uk>;1722527979;"add container files
+"
+post;atchem_atchem2;40f515c858aca21564b46b90486f85122900a667;willdrysdale <wsd500@york.ac.uk>;1722604995;"update to run with singularity
+"
+post;atchem_atchem2;76e2d3c83cef401910fd6c13d2e3604800b7ead7;willdrysdale <wsd500@york.ac.uk>;1722612460;"Tidy Docker files and update README
+"
+post;atchem_atchem2;0cce6c5f0d8b139a44fe6db797e4d36c5440be7c;willdrysdale <wsd500@york.ac.uk>;1722612629;"readme update
+"
+post;atchem_atchem2;963f0016c0fe1c69e7d91fb8ddedc4be4a6da99c;willdrysdale <wsd500@york.ac.uk>;1722613931;"remove internal package note
+"
+post;atchem_atchem2;62adf819add6670cb4085fd56c41cb6a183fa87e;willdrysdale <wsd500@york.ac.uk>;1722614760;"readme update
+"
+post;atchem_atchem2;b8db72780b5924dd7d918de705bc61a4a97172af;willdrysdale <wsd500@york.ac.uk>;1722956525;"Change mechanism location to full path
+
+user now provides folder containing mechanism at runtime, rather than this being hardcoded to `mcm`
+"
+post;atchem_atchem2;5160b3bdcf3b2fcb603dd7b2f3262ee5d768734a;willdrysdale <wsd500@york.ac.uk>;1722956727;"Add copyright notices to new files
+"
+post;atchem_atchem2;500fcbdcd1fdd1a9e1885abf993cf48600dc7416;willdrysdale <wsd500@york.ac.uk>;1723132002;"Add comments to scripts and update some directory names
+"
+post;atchem_atchem2;6631d095d98c406c92bfcd809372b7000e93797a;willdrysdale <wsd500@york.ac.uk>;1723134851;"Remove hardcoding of version in Dockerfile, it will now build from whichever branch it is run in.
+"
+pre;awslabs_gluon-ts;bf513dd6d9524456af15ebf0dff9543ee36410a7;Lorenzo Stella <stellalo@amazon.com>;1730819992;"Update gluonts.shell requirements (#3233)
+
+*Issue #, if available:* 
+- https://github.com/awslabs/gluonts/security/dependabot/31
+- https://github.com/awslabs/gluonts/security/dependabot/32
+
+*Description of changes:*
+- Update waitress to the minimum recommended version as per the above
+issues
+- Update flask to the latest release
+- Enable gluonts.shell tests in the PyTorch tests workflow
+
+
+By submitting this pull request, I confirm that you can use, modify,
+copy, and redistribute this contribution, under the terms of your
+choice.
+
+
+**Please tag this pr with at least one of these labels to make our
+release process faster:** BREAKING, new feature, bug fix, other change,
+dev setup"
+pre;awslabs_gluon-ts;411948a775bfc5dbb562e5f63f03856f176859b0;Kashif Rasul <kashif.rasul@gmail.com>;1730888677;Merge branch 'dev' into bim
+pre;awslabs_gluon-ts;f3b88e115e3814f623e715831c7e36073a57074e;Kashif Rasul <kashif.rasul@gmail.com>;1730888688;Merge branch 'dev' into softs
+pre;awslabs_gluon-ts;f0b98875173a68f0e553eaac6638e3715be09c35;Kashif Rasul <kashif.rasul@gmail.com>;1730888696;Merge branch 'dev' into gp-distribution
+pre;awslabs_gluon-ts;2c9cc564d505f10bff6800a50ec6e8da40923d89;Kashif Rasul <kashif.rasul@gmail.com>;1730888709;Merge branch 'dev' into sam
+pre;awslabs_gluon-ts;8bc68e62d741bdabb85914f9c34ed195865f4325;Lorenzo Stella <stellalo@amazon.com>;1730971377;"Backports for v0.16.0 (#3235)
+
+*Description of changes:* Backporting PRs
+- #3228 
+- #3232 
+- #3233 
+
+
+By submitting this pull request, I confirm that you can use, modify,
+copy, and redistribute this contribution, under the terms of your
+choice.
+
+
+**Please tag this pr with at least one of these labels to make our
+release process faster:** BREAKING, new feature, bug fix, other change,
+dev setup"
+pre;awslabs_gluon-ts;b1b7863878db084be7cbb3eef10e3d5ce1e587ac;Lorenzo Stella <stellalo@amazon.com>;1730980575;"fix rebase error
+"
+pre;awslabs_gluon-ts;3d45ddb07c6d06ba6c1cc40d450fda168aafd064;Lorenzo Stella <lorenzostella@gmail.com>;1730980581;"Merge b1b7863878db084be7cbb3eef10e3d5ce1e587ac into 0cc3cd95de2a0086f370f5f05d5d5821c604634f
+"
+pre;awslabs_gluon-ts;4dfee4382887ed90b24102397daf36471c84f1ca;Kashif Rasul <kashif.rasul@gmail.com>;1731695689;rsample
+pre;awslabs_gluon-ts;875f9c5040a483603f9a86cc51a796316e78d207;Pedro Mercado <34275963+melopeo@users.noreply.github.com>;1732629230;"Merge 0b5956f07e4b5a12f60ff23abb4b8b9d29973453 into 12089c7e626dd7062684bdfa82faac32da2a9ec8
+"
+post;awslabs_gluon-ts;cd821734d7da8cf18dee0b9d89a9665340afeaa0;Matthew Baron <mbaron50@gmail.com>;1738897110;"Added validation predictors and tests
+"
+post;awslabs_gluon-ts;c8ea18d2b620ff14c814c27b6251fa91d2dd1b2a;Oleksandr Shchur <shchuro@amazon.com>;1744020612;Update module.py
+post;awslabs_gluon-ts;cdd85be72c42547870e836053aef05419fb38b9c;Oleksandr Shchur <shchuro@amazon.com>;1744020778;"Allow disabling scaler for DL models
+"
+post;awslabs_gluon-ts;716eded44cf93ea015add914aa0396193977339a;Oleksandr Shchur <shchuro@amazon.com>;1744102831;"Allow disabling scaler for DL models (#3251)
+
+*Issue #, if available:*
+
+*Description of changes:*
+- Currently, the incorrect type hint makes it impossible to set
+`scaling=None` for TiDE, PatchTST, DLinear and LagTST models. If user
+sets `scaling=None`, Pydantic will raise the ValidationError. This PR
+fixes this issue.
+
+
+By submitting this pull request, I confirm that you can use, modify,
+copy, and redistribute this contribution, under the terms of your
+choice.
+
+
+**Please tag this pr with at least one of these labels to make our
+release process faster:** BREAKING, new feature, bug fix, other change,
+dev setup"
+post;awslabs_gluon-ts;baa62452d5e020f773b996c00955aff4189589d7;Oleksandr Shchur <shchuro@amazon.com>;1744102831;"Allow disabling scaler for DL models (#3251)
+
+*Issue #, if available:*
+
+*Description of changes:*
+- Currently, the incorrect type hint makes it impossible to set
+`scaling=None` for TiDE, PatchTST, DLinear and LagTST models. If user
+sets `scaling=None`, Pydantic will raise the ValidationError. This PR
+fixes this issue.
+
+
+By submitting this pull request, I confirm that you can use, modify,
+copy, and redistribute this contribution, under the terms of your
+choice.
+
+
+**Please tag this pr with at least one of these labels to make our
+release process faster:** BREAKING, new feature, bug fix, other change,
+dev setup"
+post;awslabs_gluon-ts;995c2e2acfd53bc31524464c658e32811f5f4376;Lorenzo Stella <stellalo@amazon.com>;1744107507;"upgrade nbsphinx
+"
+post;awslabs_gluon-ts;b465f01a69415eac015b3789831cbab8e865730f;Lorenzo Stella <stellalo@amazon.com>;1744107793;"update docutils
+"
+post;awslabs_gluon-ts;2714f3e60c60507bb09dcc134763444e77f1e6ed;Lorenzo Stella <stellalo@amazon.com>;1744107931;"update docutils
+"
+post;awslabs_gluon-ts;1a9e01ba9d0ebdbb5639a5f45cd5ee0d31846ab3;Lorenzo Stella <stellalo@amazon.com>;1744107996;"update docutils
+"
+post;awslabs_gluon-ts;6d48cb6b995e00fbe497be072a6a063eee09527f;Lorenzo Stella <stellalo@amazon.com>;1744110494;"Upgrade docs dependencies (#3252)
+
+*Issue #, if available:*
+
+*Description of changes:*
+
+
+By submitting this pull request, I confirm that you can use, modify,
+copy, and redistribute this contribution, under the terms of your
+choice.
+
+
+**Please tag this pr with at least one of these labels to make our
+release process faster:** BREAKING, new feature, bug fix, other change,
+dev setup"
+pre;locusrobotics_fuse;88d3333d2e9d93b264b35eebb8552baf13a58841;Enrique Fernandez Perdomo <efernandez@clearpath.ai>;1591188749;"Fix Unicycle2D constructor doxygen (#198)
+
+"
+pre;locusrobotics_fuse;d309f516e3b749d3daadea4c587338dd77fb7230;Enrique Fernandez <efernandez@clearpath.ai>;1591190097;"Merge branch 'devel' into cpr-devel
+"
+pre;locusrobotics_fuse;11723435d028409b65d9b1eb49ea5b576ef6a3f6;Enrique Fernandez Perdomo <efernandez@clearpath.ai>;1591217738;"Add fuse_models::Transaction sensor model (#195)
+
+"
+pre;locusrobotics_fuse;da477adeb2161382a24077788c37a444fa17f9df;Enrique Fernandez Perdomo <efernandez@clearpath.ai>;1592409071;"Add fuse_models::GraphIgnition sensor model (#196)
+
+"
+pre;locusrobotics_fuse;8a2bd986c986f157f577b003c3483bae05e6e2db;Enrique Fernandez <efernandez@clearpath.ai>;1592420835;"Merge branch 'devel' into cpr-devel
+"
+pre;locusrobotics_fuse;2239cffa1941861588856117388fea59b87f6c1e;Enrique Fernandez Perdomo <efernandez@clearpath.ai>;1593014011;"Purge transactions older than ignition max stamp (#183)
+
+"
+pre;locusrobotics_fuse;915e4a4fd815a7429194611f065db04bce9c3627;Enrique Fernandez <efernandez@clearpath.ai>;1593025289;"Merge branch 'devel' into cpr-devel
+"
+pre;locusrobotics_fuse;73335c59c78cc66db7ee03e97071a9b9232173c1;Enrique Fernandez <efernandez@clearpath.ai>;1594654706;"Check empty transaction with empty() method
+"
+pre;locusrobotics_fuse;871134dc4d51a5c43c9a7c109e6908c0f5a3b60c;Stephen Williams <stephen.vincent.williams@gmail.com>;1595440548;"Created a getConstraintCosts() methods for reporting the costs and residuals of individual constraints
+"
+pre;locusrobotics_fuse;789d07201682a35755f54abc126c012facc8dc95;Stephen Williams <stephen.vincent.williams@gmail.com>;1598376535;"Fix how the variables to be marginalized are selected.
+"
+post;locusrobotics_fuse;78eba735ff26cafe7625264b59f3db0a7db183b4;Enrique Fernandez <efernandez@clearpath.ai>;1604428066;"Use dedicated spinner for publishTimerCallback
+
+* This reduces the jitter in the output topics and TF transform stamp
+  because it allows the notifyCallback and publishTimerCallback to run
+  concurrently. The notifyCallback might take longer than the timer
+  period sometimes, mostly because the covariance computation is an
+  expensive operation.
+* There is a subtle change of behaviour with this implementation!
+  Before, the publishTimerCallback overwrote the odom_output_ and
+  acceleration_output_ with the predicted state. Now it does not, and
+  if it gets called twice or more times consecutively, it predicts since
+  the last time the state was computed and updated in the
+  notifyCallback. With the notifyCallback and publishTimerCallback
+  running concurrently it is not trivial to keep the previous behaviour
+  efficiently, because we would have to lock the entire callbacks to
+  avoid the publishTimerCallback to overwrite a new state being computed
+  concurrently in the notifyCallback. That being said, the predicted
+  state is likely the same in both implementation. That is, the result
+  is likely the same if we use multiple steps or a single one to predict
+  the last state forward to the current time.
+"
+post;locusrobotics_fuse;f648fcfa84a12691e298576accb2f4c8f3fca023;Enrique Fernandez <efernandez@clearpath.ai>;1604428066;"Use dedicated spinner for publishTimerCallback
+
+* This reduces the jitter in the output topics and TF transform stamp
+  because it allows the notifyCallback and publishTimerCallback to run
+  concurrently. The notifyCallback might take longer than the timer
+  period sometimes, mostly because the covariance computation is an
+  expensive operation.
+* There is a subtle change of behaviour with this implementation!
+  Before, the publishTimerCallback overwrote the odom_output_ and
+  acceleration_output_ with the predicted state. Now it does not, and
+  if it gets called twice or more times consecutively, it predicts since
+  the last time the state was computed and updated in the
+  notifyCallback. With the notifyCallback and publishTimerCallback
+  running concurrently it is not trivial to keep the previous behaviour
+  efficiently, because we would have to lock the entire callbacks to
+  avoid the publishTimerCallback to overwrite a new state being computed
+  concurrently in the notifyCallback. That being said, the predicted
+  state is likely the same in both implementation. That is, the result
+  is likely the same if we use multiple steps or a single one to predict
+  the last state forward to the current time.
+"
+post;locusrobotics_fuse;1a438be4c7b0ba3f208dd745ca31a03024449977;Enrique Fernandez <efernandez@clearpath.ai>;1604429717;"Roslint test for version 0.12.0
+"
+post;locusrobotics_fuse;8a80a2065bc59c1fe046e653edf9b3b6bc81f162;Enrique Fernandez <efernandez@clearpath.ai>;1604429717;"Roslint test for version 0.12.0
+"
+post;locusrobotics_fuse;f19d4d1eca0171cf86720664a8f80d395f297e08;Enrique Fernandez Perdomo <efernandez@clearpath.ai>;1604500818;"Merge pull request #20 from clearpathrobotics/publish-timer-spinner
+
+Use publish timer dedicated spinner"
+post;locusrobotics_fuse;00c3d7026bf330f33ca753ce142caa57455aa155;Enrique Fernandez Perdomo <efernandez@clearpath.ai>;1604556006;"Sort declaration of publish timer attributes
+
+Sort declaration of publish timer callback queue, node handle and spinner.
+
+Co-authored-by: Stephen Williams <stephen.vincent.williams@gmail.com>"
+post;locusrobotics_fuse;4af50648055bbf9c1b9e11f3acd48ef8fdaff3b5;Enrique Fernandez <efernandez@clearpath.ai>;1604557155;"Fix optimizer test config
+
+* Add dimensions to the sensor models, so we do not get these warnings:
+``` bash
+[ WARN] [/Optimizer] [1604556511.895230377]: No dimensions were specified. Data from topic /imu will be ignored.
+[ WARN] [/Optimizer] [1604556511.899319309]: No dimensions were specified. Data from topic /pose will be ignored.
+[ WARN] [/Optimizer] [1604556511.905227451]: No dimensions were specified. Data from topic /odom will be ignored.
+```
+* Add `twist_target_frame` to `imu` sensor model, so we do not get this
+  error:
+``` bash
+[FATAL] [/Optimizer] [1604557006.977288017]: Could not find required parameter twist_target_frame in namespace /Optimizer/imu
+```
+"
+post;locusrobotics_fuse;f80259db076c7859430cdea18f68991ed81de385;Enrique Fernandez <efernandez@clearpath.ai>;1604599859;"Trace publishTimerCallback
+"
+post;locusrobotics_fuse;04715d8213cc365d12de3862f24d4d28c517c3dd;Enrique Fernandez Perdomo <efernandez@clearpath.ai>;1604600798;"Merge pull request #21 from clearpathrobotics/trace-publish-timer-callback
+
+Trace publishTimerCallback"
+post;locusrobotics_fuse;ffe805631d685739a6a17d2f242fa54d77ce1dd4;Enrique Fernandez Perdomo <efernandez@clearpath.ai>;1605124281;"Use dedicated spinner for publish timer callback (#201)
+
+* Use dedicated spinner for publishTimerCallback
+* This reduces the jitter in the output topics and TF transform stamp
+  because it allows the notifyCallback and publishTimerCallback to run
+  concurrently. The notifyCallback might take longer than the timer
+  period sometimes, mostly because the covariance computation is an
+  expensive operation.
+* There is a subtle change of behaviour with this implementation!
+  Before, the publishTimerCallback overwrote the odom_output_ and
+  acceleration_output_ with the predicted state. Now it does not, and
+  if it gets called twice or more times consecutively, it predicts since
+  the last time the state was computed and updated in the
+  notifyCallback. With the notifyCallback and publishTimerCallback
+  running concurrently it is not trivial to keep the previous behaviour
+  efficiently, because we would have to lock the entire callbacks to
+  avoid the publishTimerCallback to overwrite a new state being computed
+  concurrently in the notifyCallback. That being said, the predicted
+  state is likely the same in both implementation. That is, the result
+  is likely the same if we use multiple steps or a single one to predict
+  the last state forward to the current time."
+post;netket_netket;7e6f88c0b1ccb993e75f4eac7089c2a3f7a171ff;Filippo Vicentini <filippovicentini@gmail.com>;1760997009;"fix NNXWrapper bug
+"
+post;netket_netket;8bc3bb15cc45f12d2378b5d3a9a400c65a1e3789;Filippo Vicentini <filippovicentini@gmail.com>;1761120271;"Fix 'bug' that was not sharding as desired in VMC_SRt
+
+comment
+"
+post;netket_netket;16c01f42c957e6ca193c8d9635655833f661848c;Alessandro Sinibaldi <72938497+alleSini99@users.noreply.github.com>;1761145794;"Merge 5640e0d306ae92c18a9baf51e61a5f79ae9cbf46 into 8bc3bb15cc45f12d2378b5d3a9a400c65a1e3789
+"
+post;netket_netket;6f669c62c76f056f0b28d93a9ce280951dd5b6ef;Giuseppe Carleo <28149892+gcarleo@users.noreply.github.com>;1761145794;"Merge f8e5292c5fe3456ceaceb98cedc7bb9904296160 into 8bc3bb15cc45f12d2378b5d3a9a400c65a1e3789
+"
+post;netket_netket;e0c3432f3ff4a905aa45f5136be29face6a42958;Dian Wu <wdphy16@pku.edu.cn>;1761145794;"Merge 0ef9e84abf73ae386fda165d810f6209b8445a78 into 8bc3bb15cc45f12d2378b5d3a9a400c65a1e3789
+"
+post;netket_netket;fd94b2f48c6959bb19c6b3d2408925893ef39fbb;Filippo Vicentini <filippovicentini@gmail.com>;1761145794;"Merge 994d3a4697c2d871ecd5c506161f200feae6c198 into 8bc3bb15cc45f12d2378b5d3a9a400c65a1e3789
+"
+post;netket_netket;15288b9616f91a54ae5003a19c7af90f91abf956;Filippo Vicentini <filippovicentini@gmail.com>;1761145795;"Merge 758be0763a8a73fc7c560b10207276bb07004ca9 into 8bc3bb15cc45f12d2378b5d3a9a400c65a1e3789
+"
+post;netket_netket;4f3fd104ffc0665e03cf59bda51e2b2aee4642d5;Zakari Denis <40515294+Z-Denis@users.noreply.github.com>;1761145795;"Merge 5f73269dc413b6e19d20935c4006b8b7d8b887b9 into 8bc3bb15cc45f12d2378b5d3a9a400c65a1e3789
+"
+post;netket_netket;822894c126893358a31d259a56e4215259f3e3d4;Filippo Vicentini <filippovicentini@gmail.com>;1761145795;"Merge 366f074556ccff8c808b971fe495299e4adcde20 into 8bc3bb15cc45f12d2378b5d3a9a400c65a1e3789
+"
+post;netket_netket;af03b5a5ffef994c72058c85c57016a4fc8e1ebf;Filippo Vicentini <filippovicentini@gmail.com>;1761145795;"Merge 3814f36e2e318ee5cf465c9cf4f83e6d2071c905 into 8bc3bb15cc45f12d2378b5d3a9a400c65a1e3789
+"
+pre;qiskit_qiskit-vscode;d58815b20ba9801978c3e429d896e0e80d6777e6;Zp Bappi <zpbappi@gmail.com>;1557500002;"possibly fixed the unit test for utils
+"
+pre;qiskit_qiskit-vscode;b64b25318fdded46965c2830f37f335c020de443;Diego M. Rodriguez <diego.plan9@gmail.com>;1557767162;"Testing travis
+"
+pre;qiskit_qiskit-vscode;18de19e51ac18ddc11f751b37a412250157b32fc;Zp Bappi <zpbappi@gmail.com>;1557807417;"updated changelog file
+"
+pre;qiskit_qiskit-vscode;622cdd6af255134f136c87aef3af8d7c9f9d803f;Juan Cruz-Benito <juan.cruz@ibm.com>;1557822732;"Merge pull request #86 from zpbappi/master
+
+Added ability to change python path from vscode settings, fixed a failing unit test"
+pre;qiskit_qiskit-vscode;4d5511a293902b61d868361847575a94fd548544;Juan Cruz-Benito <juan.cruz@ibm.com>;1557822891;Merge branch 'master' into feture/travis-test
+pre;qiskit_qiskit-vscode;9a37634c871167480a8aa4d41b0ab3f33cf2297b;Juan Cruz-Benito <juan.cruz@ibm.com>;1558369266;"Updating changelog
+"
+pre;qiskit_qiskit-vscode;8e9162bd9777f7676e3a35a2ab37387e9effdc99;Juan Cruz-Benito <juan.cruz@ibm.com>;1558369763;"Updating version and updating packages
+"
+pre;qiskit_qiskit-vscode;384990be0ff7305dbd913562b0345be4eeaed66a;Juan Cruz-Benito <juan.cruz@ibm.com>;1558369941;"Updating changelog
+"
+pre;qiskit_qiskit-vscode;949fedd48d42e86a15e6bccf07c18e8a5989d98e;Juan Cruz-Benito <juan.cruz@ibm.com>;1558370281;"Updating dependencies in server
+"
+pre;qiskit_qiskit-vscode;7610e35db7c72851e9bca692768b130b0e1ad1ef;Yeray Darias <ydarias@gmail.com>;1558428215;"Merge pull request #89 from Qiskit/v0.5.5
+
+V0.5.5"
+post;qiskit_qiskit-vscode;7a248ac7f8502ee527f442c33cdb1697e00297c4;//va <va@us.ibm.com>;1726241146;"extension update
+"
+post;qiskit_qiskit-vscode;d6a6d682ca43523f5967bdb86e14426456a72049;//va <va@us.ibm.com>;1726241146;"extension update
+
+Co-Authored-By: Juan Cruz-Benito <2938045+cbjuan@users.noreply.github.com>
+Co-Authored-By: Sanjay Vishwakarma <54759252+sanjay-995@users.noreply.github.com>
+"
+post;qiskit_qiskit-vscode;85b4d9c0a824b9b780d34818abf1a33e48719810;//va <va@us.ibm.com>;1726249554;"Merge branch 'main' of https://github.com/Qiskit/qiskit-code-assistant-vscode
+"
+post;qiskit_qiskit-vscode;52531c8f1e9d5cbd4b60cd5af96ef29a12c1a274;Juan Cruz-Benito <juan.cruz.benito@ibm.com>;1726335449;"Adding EULA
+"
+post;qiskit_qiskit-vscode;90e519942efbe330d073f7bdf375020700074791;Juan Cruz-Benito <juan.cruz.benito@ibm.com>;1726335621;"Replacing local link by the GitHub URL for the EULA document
+"
+post;qiskit_qiskit-vscode;adb8019946074fcb4e733be70e21cb6db8710272;//va <vabarbosa@users.noreply.github.com>;1726336518;"Merge pull request #92 from Qiskit/add-eula
+
+"
+post;qiskit_qiskit-vscode;fc300e7f834215a2fe5c595e9870f29a7c71a8b2;Juan Cruz-Benito <juan.cruz.benito@ibm.com>;1726436606;"Renaming license file as it is not deteced when running vsce:package
+"
+post;qiskit_qiskit-vscode;43a945e5abba12160362e5c24892bb4848104081;Juan Cruz-Benito <juan.cruz.benito@ibm.com>;1726436618;"Updating to v 0.6.9
+"
+post;qiskit_qiskit-vscode;bb61334d2ed2d6c37a07fd9bc11448cd88e687bf;Juan Cruz-Benito <juan.cruz.benito@ibm.com>;1726436625;"Updating README
+"
+post;qiskit_qiskit-vscode;c2914b182f13002f1fdea097475aff6f4576222d;Juan Cruz-Benito <juan.cruz.benito@ibm.com>;1726437639;"Merge pull request #93 from Qiskit/v069
+
+Updating package version to 0.6.9"
+pre;rexcardan_evil-dicom;b654b64110b73ef8b51d21eed858ba00c0a83d13;Anderson <b5anderson@UCSD.EDU>;1661277141;"added support for halcyon RT Plans
+"
+pre;rexcardan_evil-dicom;887165c6f3467ebb35b526905e1c12c5ccf40d4c;Brian Mark Anderson, PhD <b5anderson@health.ucsd.edu>;1661277345;"Update StructureLook.cs
+
+Undoing conversion to CvScalar"
+pre;rexcardan_evil-dicom;9b4e1afcda6f5305787fb3598ea59bd0b53927aa;Brian Mark Anderson, PhD <b5anderson@health.ucsd.edu>;1661277370;"Update Transform.cs
+
+Undoing change"
+pre;rexcardan_evil-dicom;027f4d19c0f5b5350f237eab52f7e00396a4ec6e;Rex Cardan <rexcardan@gmail.com>;1664806847;"Merge pull request #98 from brianmanderson/master
+
+Adding support for Halcyon RT Plans"
+pre;rexcardan_evil-dicom;be3a2250409f913e0956bc296ee0226517cc417e;ochicaud <48908195+ochicaud@users.noreply.github.com>;1669071891;"Merge 7088c711ed257e18ed7902f6003573693bcb48d7 into 027f4d19c0f5b5350f237eab52f7e00396a4ec6e
+"
+pre;rexcardan_evil-dicom;f6c6f227450b83fac2c34b6749d252e99550c6fd;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1669071891;"Merge 96ab43b979223778f246a940c4f556f0292c47fa into 027f4d19c0f5b5350f237eab52f7e00396a4ec6e
+"
+pre;rexcardan_evil-dicom;7dd5945ed180abae4b7e70101d9bd59df1c26932;Ilias Sachpazidis <ilias.sachpazidis@gmail.com>;1670833194;"IdleTimeout added (SpinUpAssociation, DICOMSCP)
+
+Default value 25_000 ms"
+pre;rexcardan_evil-dicom;eeb91eaf0e3d5150605a87dd9e671556c56f8df1;isachpaz <Ilias.Sachpazidis@gmail.com>;1670833823;"Merge 7dd5945ed180abae4b7e70101d9bd59df1c26932 into 027f4d19c0f5b5350f237eab52f7e00396a4ec6e
+"
+pre;rexcardan_evil-dicom;bb9dffadd4e1b9c6828d0f0e85a0b72b8e620659;Daniel Parvin <dparvin@mimsoftware.com>;1688815657;"Fixed typo in CMover class.
+"
+pre;rexcardan_evil-dicom;a9a10079fe28b25e215c41b31dea51693d693b7a;Daniel Parvin <danielparvin@users.noreply.github.com>;1688816822;"Merge bb9dffadd4e1b9c6828d0f0e85a0b72b8e620659 into 027f4d19c0f5b5350f237eab52f7e00396a4ec6e
+"
+post;rexcardan_evil-dicom;07236bf5522e839e91a4b36c4686eb756226cdee;Rex Cardan <rexcardan@gmail.com>;1723819426;"Merge pull request #105 from danielparvin/fix-typos
+
+Fixed typo in CMover class."
+post;rexcardan_evil-dicom;0e067af2fb3136db9a58e6e4e59bacae1eb4265c;Rex Cardan <rexcardan@gmail.com>;1723819489;"Merge pull request #101 from isachpaz/IdleTimeout-for-DICOMSCP
+
+IdleTimeout added (SpinUpAssociation, DICOMSCP)"
+post;rexcardan_evil-dicom;e63d7c774904b2328ec81569090866ca72ab59a7;ochicaud <48908195+ochicaud@users.noreply.github.com>;1723819497;"Merge 7088c711ed257e18ed7902f6003573693bcb48d7 into 0e067af2fb3136db9a58e6e4e59bacae1eb4265c
+"
+post;rexcardan_evil-dicom;a366c3e39ab7dbaddca314661492a6fee7981be2;Rex Cardan <rexcardan@gmail.com>;1723824328;"updated nuget pcks
+"
+post;rexcardan_evil-dicom;575ec54df376321ff545d1c3b2b5063367f53d9b;Rex Cardan <rexcardan@gmail.com>;1724013371;"removed abstraction dependencies. added net6.0 support
+"
+post;rexcardan_evil-dicom;4a472bc55515c2e0dc0d2ea7b3e9282f3ee0505b;Rex Cardan <rexcardan@gmail.com>;1724170358;"added shift_js encoder for DICOM write
+"
+post;rexcardan_evil-dicom;957fc62961ec910ea3e8b558b2eed46ad8c747bf;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1726568961;"Merge 96ab43b979223778f246a940c4f556f0292c47fa into 4a472bc55515c2e0dc0d2ea7b3e9282f3ee0505b
+"
+pre;sfilippone_psblas3;97306b6d74b32610980f1b6e7accf79db8bc3ef5;Salvatore Filippone <salvatore.filippone@cranfield.ac.uk>;977932376;"New repository initialized by cvs2svn.
+"
+post;sfilippone_psblas3;960e13a6b4233df29b4bf7a0ce7accadc0945756;Salvatore Filippone <salvatore.filippone@cranfield.ac.uk>;1126084569;"Initial revision
+
+"
+post;sfilippone_psblas3;02fd9346ca9f4221b481463ab3f4809342e50199;Salvatore Filippone <salvatore.filippone@cranfield.ac.uk>;1126084843;"Should not keep generated files.
+
+"
+post;sfilippone_psblas3;1797b931dd30e7fffea34c0187b5cb933e72ff4c;Alfredo Buttari <alfredo.buttari@enseeiht.fr>;1126109257;"constants added
+
+"
+post;sfilippone_psblas3;7051d94726bf05bf349adc14a33e72c745101c4f;Alfredo Buttari <alfredo.buttari@enseeiht.fr>;1126109409;"*** empty log message ***
+
+"
+post;sfilippone_psblas3;bea96560d1c61773d73fefc77c31af6c19ab8607;Alfredo Buttari <alfredo.buttari@enseeiht.fr>;1126254240;"*** empty log message ***
+
+"
+post;sfilippone_psblas3;b20b2cacbb603a2cabb388a27f9969cb05961111;Alfredo Buttari <alfredo.buttari@enseeiht.fr>;1126514552;"*** empty log message ***
+
+"
+post;sfilippone_psblas3;83db627d526eb2d6e87538da0cc50bf6bd6a93b2;Alfredo Buttari <alfredo.buttari@enseeiht.fr>;1126545001;"*** empty log message ***
+
+"
+post;sfilippone_psblas3;1b90c52c5a36af7d3d084e93d16a28acb99b546e;Alfredo Buttari <alfredo.buttari@enseeiht.fr>;1126601000;"*** empty log message ***
+
+"
+post;sfilippone_psblas3;9323d3a7f42d5767f2609349bd39f2877e1075d8;Alfredo Buttari <alfredo.buttari@enseeiht.fr>;1126628013;"*** empty log message ***
+
+"
+post;sfilippone_psblas3;cd656f8f4b3ef1c5078614016379e111fc27f15e;Alfredo Buttari <alfredo.buttari@enseeiht.fr>;1126722155;"*** empty log message ***
+
+"
+pre;sigven_pcgr;1cb79403f9f03302d7076d8f01d23728b4946cd2;Sigve Nakken <sigven@ifi.uio.no>;1601893311;"Merge branch 'master' of https://github.com/sigven/pcgr
+
+Conda update
+"
+pre;sigven_pcgr;fb19701bc42c7f7a3c4f0ad0ac1b597ce37db327;Sigve Nakken <sigven@ifi.uio.no>;1601893965;"updated NAMESPACE
+"
+pre;sigven_pcgr;575295b770087e3d129c39cf39021b5f08799bbd;Sigve Nakken <sigven@ifi.uio.no>;1606739741;"updated oncotree file
+"
+pre;sigven_pcgr;1a258bec71d13015421f3176f8aa99a247fff31e;Sigve Nakken <sigven@ifi.uio.no>;1606739996;"0.9.1 release
+"
+pre;sigven_pcgr;364709c66bcd845e7f7de3aa090c39f2cc740ce2;Sigve Nakken <sigven@ifi.uio.no>;1606744489;"fixed VERSION in meta.yaml
+"
+pre;sigven_pcgr;ff2df715080e62601dbc3ef7c1c332ad01439dd5;Sigve Nakken <sigven@ifi.uio.no>;1606832347;"updated to dev
+"
+pre;sigven_pcgr;0074c1969131c7c9b01c941b052ef3f7d1dd0c48;Sigve Nakken <sigven@ifi.uio.no>;1607587878;"README typos
+"
+pre;sigven_pcgr;8395c170b24845acf181268d0443219c5fa27fd4;Sigve Nakken <sigven@ifi.uio.no>;1611052640;"kataegis fix and gdrive link
+"
+pre;sigven_pcgr;660d7c8af191fdf45eab0493fe60188f7d6dc880;Sigve Nakken <sigven@ifi.uio.no>;1611584172;"add CPSR note
+"
+pre;sigven_pcgr;6242469a7085f980822c1d3ad8b8109edd323cdd;Sigve Nakken <sigven@ifi.uio.no>;1611593023;"Zenodo example reports link
+"
+post;sigven_pcgr;14c792a8a92582751e88e5ac68339bf509c7cad9;Sigve Nakken <sigven@ifi.uio.no>;1625052204;"0.9.2 release
+"
+post;sigven_pcgr;67333647583b7a3d92eb3b72a410cae903ac6ce1;Sigve Nakken <sigven@ifi.uio.no>;1631610994;"fixed bug - wrong propagation of control_dp_min
+"
+post;sigven_pcgr;4d5859f0fb5357ad3a05dfdcc6acc83afee2a01c;Sigve Nakken <sigven@ifi.uio.no>;1631626292;"updated FAQ
+"
+post;sigven_pcgr;201255661e49a914d5648b0417bc7ce20a1512a4;pdiakumis <pdiakumis@unimelb.edu.au>;1636719908;"[R] move data-raw script
+"
+post;sigven_pcgr;c6e178c010f61abe76785535649339d3c3f5c42b;Sigve Nakken <sigven@ifi.uio.no>;1636720582;"Merge pull request #140 from umccr/pcgrr-data-raw
+
+[R] move data-raw script"
+post;sigven_pcgr;7ef32955ac0c6b472fc00b901cd778b710e86345;pdiakumis <pdiakumis@unimelb.edu.au>;1636722050;"[R] import pipe, .data, ., and :=
+"
+post;sigven_pcgr;bfa50bf316d3110d946efc37df3cec3003a58b6f;pdiakumis <pdiakumis@unimelb.edu.au>;1636722291;"[R] export funcs and use .data everywhere
+"
+post;sigven_pcgr;08986bf9c05ee077dda3bd7b392a6f73d5cca85f;pdiakumis <pdiakumis@unimelb.edu.au>;1636724160;"[R] export funcs and use .data everywhere
+"
+post;sigven_pcgr;5ecaf2e918e3086cacfbd6df9119243d3ff72e2f;Sigve Nakken <sigven@ifi.uio.no>;1636725003;"Merge pull request #141 from umccr/pcgrr-r-part1
+
+[R] Export functions and use .data (PART 1)"
+post;sigven_pcgr;54eb4efd98c99e9ec273954b1b29febbd9af54f7;Sigve Nakken <sigven@ifi.uio.no>;1636725075;"Merge pull request #142 from umccr/pcgrr-r-part2
+
+[R] Export functions and use .data (PART 2)"
+pre;threeml_threeml;43069eb25c2c8517fac2d8a8dad262806cffc819;ndilalla <niccolo.dilalla@stanford.edu>;1576097756;"Trying to fix the docs build.
+"
+pre;threeml_threeml;09dad45700509ce354e2d6922c97e1ad9b232409;ndilalla <niccolo.dilalla@stanford.edu>;1576098253;"Minor.
+"
+pre;threeml_threeml;e66f11f7a1eaf7805bfab5474f90113ab30a9b08;ndilalla <niccolo.dilalla@stanford.edu>;1576098831;"Minor.
+"
+pre;threeml_threeml;11d9522b582d9c87288dc84409c4bf4ed663ef40;ndilalla <niccolo.dilalla@stanford.edu>;1576098958;"Removing conda.
+"
+pre;threeml_threeml;4467db2d9f389bc113998fa2a53adda84a141933;ndilalla <niccolo.dilalla@stanford.edu>;1576105593;"Second attempt to fix the docs build.
+"
+pre;threeml_threeml;781c7be26d602d35f2af184712090975c4b39d96;ndilalla <niccolo.dilalla@stanford.edu>;1576194222;"Docs updated [ci skip]
+"
+pre;threeml_threeml;2846710abdfe7008345e1a4e4a7726a8d2ef51a8;ndilalla <niccolo.dilalla@stanford.edu>;1576630804;"Doc notebooks updated [ci skip]
+"
+pre;threeml_threeml;627167ab5e145c8050ff796b96dccdd061d4c393;ndilalla <niccolo.dilalla@stanford.edu>;1576633793;"Notebook renamed [ci skip]
+"
+pre;threeml_threeml;1815d4486f227178103cefbc8b90f94f591cbf48;ndilalla <niccolo.dilalla@stanford.edu>;1576634681;"Notebook renamed [ci skip]
+"
+pre;threeml_threeml;29779394ac7e50ddb5e28411fe1a5125431e612f;ndilalla <niccolo.dilalla@stanford.edu>;1576790949;"Doc notebooks updated [ci skip]
+"
+post;threeml_threeml;e49f8a22824cc88bd16a8c161288ddd075e8d1e6;J. Michael Burgess <jmichaelburgess@gmail.com>;1583328576;Update README.md
+post;threeml_threeml;f7ab15de0ce62cdaac1c02bbe7dfe1ec6e888114;J. Michael Burgess <jmichaelburgess@gmail.com>;1583430789;Update README.md
+post;threeml_threeml;7f17da21957eed139790c3c8fb989e6f37b0492b;J. Michael Burgess <jmichaelburgess@gmail.com>;1583436632;Update README.md
+post;threeml_threeml;777a206d25515af1fe92445f689a291dc1a66724;ndilalla <niccolo.dilalla@stanford.edu>;1583451050;"Build process fixed.
+"
+post;threeml_threeml;3902736d9d5ce31f05969a5b4aedc2bed380dfcb;ndilalla <niccolo.dilalla@stanford.edu>;1583452879;"Reverting language to generic in travis yaml.
+"
+post;threeml_threeml;c5cfa64dc2207a9081724d739c1e95664cf6254a;grburgess <jmichaelburgess@gmail.com>;1583509522;"just test with a lot of pythons to see what fails
+"
+post;threeml_threeml;b8a04dc229c2d86e488ff2640bcb4930780ee82f;J. Michael Burgess <jmichaelburgess@gmail.com>;1583657008;"added upload
+"
+post;threeml_threeml;36a5575d71f94b6dd64e30d82f6cde7d1bb38bee;J. Michael Burgess <jmichaelburgess@gmail.com>;1583664082;"move to new setup.cfg and auto version
+"
+post;threeml_threeml;9de2526de82fa141b7c49bd35ea490b35b4dc363;J. Michael Burgess <jmichaelburgess@gmail.com>;1583664971;"rm
+"
+post;threeml_threeml;ab0a22d79841264f126decfe7edfafe132b698d8;J. Michael Burgess <jmichaelburgess@gmail.com>;1583665037;"added setup
+"
